@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday Card Using Java</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="from_priyanshu">From Priyanshu</string>
+    <string name="get">Get</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="your_name">Your Name</string>
+</resources>
